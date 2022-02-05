@@ -1,0 +1,22 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "loadtest:rest": "npx autocannon -c 100 -d 60 localhost:3000/rest/27 --renderStatusCodes",
+    "loadtest:grpc": "npx autocannon -c 100 -d 60 localhost:3000/grpc/27 --renderStatusCodes",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.5.4",
+    "@grpc/proto-loader": "^0.6.9",
+    "autocannon": "^7.6.0",
+    "axios": "^0.25.0",
+    "express": "^4.17.2"
+  }
+}
