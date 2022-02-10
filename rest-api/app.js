@@ -19,5 +19,5 @@ app.get('/mult/:number', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`REST API listening on port ${port}`)
+  console.log(`🚀 REST api listening on port ${port}`)
 })

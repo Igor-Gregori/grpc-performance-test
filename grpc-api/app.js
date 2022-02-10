@@ -34,7 +34,7 @@ function app() {
   var server = new grpc.Server();
   server.addService(multProto.Multiplier.service, { genMultTable: genMultTable });
   server.bindAsync(`0.0.0.0:${port}`, grpc.ServerCredentials.createInsecure(), () => {
-    console.log(`🚀 GRPC Server listening on port ${port}`)
+    console.log(`🚀 GRPC api listening on port ${port}`)
     server.start();
   });
 }

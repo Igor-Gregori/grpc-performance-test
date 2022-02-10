@@ -41,7 +41,7 @@ app.get('/grpc/:number', async (req, res) => {
   res.status(200).send(result)
 })
 
-function callAsync (client, method, parameters) {
+function callAsync(client, method, parameters) {
   return new Promise((resolve, reject) => {
     client[method](parameters, (err, response) => {
       if (err) reject(err)
@@ -51,5 +51,5 @@ function callAsync (client, method, parameters) {
 }
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`🚀 Gateway api listening on port ${port}`)
 })
