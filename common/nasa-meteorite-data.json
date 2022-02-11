@@ -519,8 +519,8 @@
         42.53333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "50",
-    ":@computed_region_nnqa_25f4": "429"
+    "computedRegionCbhkFwbd": "50",
+    "computedRegionNnqa": "429"
   },
   {
     "name": "Allende",
@@ -629,8 +629,8 @@
         44.61667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "49",
-    ":@computed_region_nnqa_25f4": "1723"
+    "computedRegionCbhkFwbd": "49",
+    "computedRegionNnqa": "1723"
   },
   {
     "name": "Andreevka",
@@ -845,8 +845,8 @@
         38.5
       ]
     },
-    ":@computed_region_cbhk_fwbd": "18",
-    ":@computed_region_nnqa_25f4": "2697"
+    "computedRegionCbhkFwbd": "18",
+    "computedRegionNnqa": "2697"
   },
   {
     "name": "Arroyo Aguiar",
@@ -901,8 +901,8 @@
         31.805
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "774"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "774"
   },
   {
     "name": "Ashdon",
@@ -993,8 +993,8 @@
         34.75
       ]
     },
-    ":@computed_region_cbhk_fwbd": "29",
-    ":@computed_region_nnqa_25f4": "3134"
+    "computedRegionCbhkFwbd": "29",
+    "computedRegionNnqa": "3134"
   },
   {
     "name": "Atoka",
@@ -1013,8 +1013,8 @@
         34.31667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "20",
-    ":@computed_region_nnqa_25f4": "602"
+    "computedRegionCbhkFwbd": "20",
+    "computedRegionNnqa": "602"
   },
   {
     "name": "Aubres",
@@ -1177,8 +1177,8 @@
         36.8
       ]
     },
-    ":@computed_region_cbhk_fwbd": "11",
-    ":@computed_region_nnqa_25f4": "1989"
+    "computedRegionCbhkFwbd": "11",
+    "computedRegionNnqa": "1989"
   },
   {
     "name": "Bachmut",
@@ -1233,8 +1233,8 @@
         35.96667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "2373"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "2373"
   },
   {
     "name": "Baldwyn",
@@ -1253,8 +1253,8 @@
         34.5
       ]
     },
-    ":@computed_region_cbhk_fwbd": "32",
-    ":@computed_region_nnqa_25f4": "495"
+    "computedRegionCbhkFwbd": "32",
+    "computedRegionNnqa": "495"
   },
   {
     "name": "Bali",
@@ -1542,8 +1542,8 @@
         45.41667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "21",
-    ":@computed_region_nnqa_25f4": "662"
+    "computedRegionCbhkFwbd": "21",
+    "computedRegionNnqa": "662"
   },
   {
     "name": "Bath Furnace",
@@ -1562,8 +1562,8 @@
         38.25
       ]
     },
-    ":@computed_region_cbhk_fwbd": "36",
-    ":@computed_region_nnqa_25f4": "1921"
+    "computedRegionCbhkFwbd": "36",
+    "computedRegionNnqa": "1921"
   },
   {
     "name": "Battle Mountain",
@@ -1582,8 +1582,8 @@
         40.66813
       ]
     },
-    ":@computed_region_cbhk_fwbd": "10",
-    ":@computed_region_nnqa_25f4": "2397"
+    "computedRegionCbhkFwbd": "10",
+    "computedRegionNnqa": "2397"
   },
   {
     "name": "Bawku",
@@ -1620,8 +1620,8 @@
         36.75
       ]
     },
-    ":@computed_region_cbhk_fwbd": "18",
-    ":@computed_region_nnqa_25f4": "2216"
+    "computedRegionCbhkFwbd": "18",
+    "computedRegionNnqa": "2216"
   },
   {
     "name": "Beardsley",
@@ -1640,8 +1640,8 @@
         39.8
       ]
     },
-    ":@computed_region_cbhk_fwbd": "17",
-    ":@computed_region_nnqa_25f4": "1285"
+    "computedRegionCbhkFwbd": "17",
+    "computedRegionNnqa": "1285"
   },
   {
     "name": "Beaver Creek",
@@ -1696,8 +1696,8 @@
         33.6
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "1978"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "1978"
   },
   {
     "name": "Belville",
@@ -1787,8 +1787,8 @@
         39.08333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "34",
-    ":@computed_region_nnqa_25f4": "1869"
+    "computedRegionCbhkFwbd": "34",
+    "computedRegionNnqa": "1869"
   },
   {
     "name": "Benoni",
@@ -1915,8 +1915,8 @@
         40.30583
       ]
     },
-    ":@computed_region_cbhk_fwbd": "9",
-    ":@computed_region_nnqa_25f4": "1072"
+    "computedRegionCbhkFwbd": "9",
+    "computedRegionNnqa": "1072"
   },
   {
     "name": "Bethlehem",
@@ -1935,8 +1935,8 @@
         42.53333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "47",
-    ":@computed_region_nnqa_25f4": "2030"
+    "computedRegionCbhkFwbd": "47",
+    "computedRegionNnqa": "2030"
   },
   {
     "name": "Beuste",
@@ -2171,8 +2171,8 @@
         34.16667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "33",
-    ":@computed_region_nnqa_25f4": "657"
+    "computedRegionCbhkFwbd": "33",
+    "computedRegionNnqa": "657"
   },
   {
     "name": "Bishunpur",
@@ -2245,8 +2245,8 @@
         40.91667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "48",
-    ":@computed_region_nnqa_25f4": "2495"
+    "computedRegionCbhkFwbd": "48",
+    "computedRegionNnqa": "2495"
   },
   {
     "name": "Blackwell",
@@ -2265,8 +2265,8 @@
         36.83333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "20",
-    ":@computed_region_nnqa_25f4": "2164"
+    "computedRegionCbhkFwbd": "20",
+    "computedRegionNnqa": "2164"
   },
   {
     "name": "Blanket",
@@ -2285,8 +2285,8 @@
         31.83333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "3063"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "3063"
   },
   {
     "name": "Blansko",
@@ -2323,8 +2323,8 @@
         40.48
       ]
     },
-    ":@computed_region_cbhk_fwbd": "34",
-    ":@computed_region_nnqa_25f4": "1795"
+    "computedRegionCbhkFwbd": "34",
+    "computedRegionNnqa": "1795"
   },
   {
     "name": "Bo Xian",
@@ -2577,8 +2577,8 @@
         40.5
       ]
     },
-    ":@computed_region_cbhk_fwbd": "48",
-    ":@computed_region_nnqa_25f4": "2455"
+    "computedRegionCbhkFwbd": "48",
+    "computedRegionNnqa": "2455"
   },
   {
     "name": "Braunau",
@@ -2768,8 +2768,8 @@
         37.62194
       ]
     },
-    ":@computed_region_cbhk_fwbd": "36",
-    ":@computed_region_nnqa_25f4": "256"
+    "computedRegionCbhkFwbd": "36",
+    "computedRegionNnqa": "256"
   },
   {
     "name": "Bursa",
@@ -2896,8 +2896,8 @@
         35.5
       ]
     },
-    ":@computed_region_cbhk_fwbd": "15",
-    ":@computed_region_nnqa_25f4": "1029"
+    "computedRegionCbhkFwbd": "15",
+    "computedRegionNnqa": "1029"
   },
   {
     "name": "Cacak",
@@ -3042,8 +3042,8 @@
         38.47028
       ]
     },
-    ":@computed_region_cbhk_fwbd": "9",
-    ":@computed_region_nnqa_25f4": "1448"
+    "computedRegionCbhkFwbd": "9",
+    "computedRegionNnqa": "1448"
   },
   {
     "name": "Cape Girardeau",
@@ -3062,8 +3062,8 @@
         37.26667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "18",
-    ":@computed_region_nnqa_25f4": "2695"
+    "computedRegionCbhkFwbd": "18",
+    "computedRegionNnqa": "2695"
   },
   {
     "name": "Capilla del Monte",
@@ -3136,8 +3136,8 @@
         36.08333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "648"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "648"
   },
   {
     "name": "Castel Berardenga",
@@ -3173,8 +3173,8 @@
         44.38333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "49",
-    ":@computed_region_nnqa_25f4": "414"
+    "computedRegionCbhkFwbd": "49",
+    "computedRegionNnqa": "414"
   },
   {
     "name": "Castrovillari",
@@ -3211,8 +3211,8 @@
         36.5
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "637"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "637"
   },
   {
     "name": "Ceniceros",
@@ -3249,8 +3249,8 @@
         43.2
       ]
     },
-    ":@computed_region_cbhk_fwbd": "21",
-    ":@computed_region_nnqa_25f4": "2684"
+    "computedRegionCbhkFwbd": "21",
+    "computedRegionNnqa": "2684"
   },
   {
     "name": "Cereseto",
@@ -3431,8 +3431,8 @@
         36.16667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "39",
-    ":@computed_region_nnqa_25f4": "2007"
+    "computedRegionCbhkFwbd": "39",
+    "computedRegionNnqa": "2007"
   },
   {
     "name": "Charsonville",
@@ -3613,8 +3613,8 @@
         35.03333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "33",
-    ":@computed_region_nnqa_25f4": "2582"
+    "computedRegionCbhkFwbd": "33",
+    "computedRegionNnqa": "2582"
   },
   {
     "name": "Chervettaz",
@@ -3705,8 +3705,8 @@
         40.93333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "48",
-    ":@computed_region_nnqa_25f4": "2459"
+    "computedRegionCbhkFwbd": "48",
+    "computedRegionNnqa": "2459"
   },
   {
     "name": "Chisenga",
@@ -3796,8 +3796,8 @@
         32.1025
       ]
     },
-    ":@computed_region_cbhk_fwbd": "31",
-    ":@computed_region_nnqa_25f4": "67"
+    "computedRegionCbhkFwbd": "31",
+    "computedRegionNnqa": "67"
   },
   {
     "name": "Clohars",
@@ -3825,8 +3825,8 @@
         44.9
       ]
     },
-    ":@computed_region_cbhk_fwbd": "41",
-    ":@computed_region_nnqa_25f4": "877"
+    "computedRegionCbhkFwbd": "41",
+    "computedRegionNnqa": "877"
   },
   {
     "name": "Cold Bokkeveld",
@@ -3863,8 +3863,8 @@
         43.76111
       ]
     },
-    ":@computed_region_cbhk_fwbd": "50",
-    ":@computed_region_nnqa_25f4": "356"
+    "computedRegionCbhkFwbd": "50",
+    "computedRegionNnqa": "356"
   },
   {
     "name": "Collescipoli",
@@ -3955,8 +3955,8 @@
         35.95
       ]
     },
-    ":@computed_region_cbhk_fwbd": "20",
-    ":@computed_region_nnqa_25f4": "2201"
+    "computedRegionCbhkFwbd": "20",
+    "computedRegionNnqa": "2201"
   },
   {
     "name": "Cronstad",
@@ -3993,8 +3993,8 @@
         35.63333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "2332"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "2332"
   },
   {
     "name": "Crumlin",
@@ -4031,8 +4031,8 @@
         36.83333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "36",
-    ":@computed_region_nnqa_25f4": "1426"
+    "computedRegionCbhkFwbd": "36",
+    "computedRegionNnqa": "1426"
   },
   {
     "name": "Cynthiana",
@@ -4051,8 +4051,8 @@
         38.4
       ]
     },
-    ":@computed_region_cbhk_fwbd": "36",
-    ":@computed_region_nnqa_25f4": "244"
+    "computedRegionCbhkFwbd": "36",
+    "computedRegionNnqa": "244"
   },
   {
     "name": "Dahmani",
@@ -4125,8 +4125,8 @@
         34.4
       ]
     },
-    ":@computed_region_cbhk_fwbd": "29",
-    ":@computed_region_nnqa_25f4": "103"
+    "computedRegionCbhkFwbd": "29",
+    "computedRegionNnqa": "103"
   },
   {
     "name": "Darmstadt",
@@ -4217,7 +4217,7 @@
         40.25
       ]
     },
-    ":@computed_region_nnqa_25f4": "2491"
+    "computedRegionNnqa": "2491"
   },
   {
     "name": "Delhi",
@@ -4272,8 +4272,8 @@
         39.7825
       ]
     },
-    ":@computed_region_cbhk_fwbd": "9",
-    ":@computed_region_nnqa_25f4": "1444"
+    "computedRegionCbhkFwbd": "9",
+    "computedRegionNnqa": "1444"
   },
   {
     "name": "Dergaon",
@@ -4706,8 +4706,8 @@
         36.4
       ]
     },
-    ":@computed_region_cbhk_fwbd": "39",
-    ":@computed_region_nnqa_25f4": "2115"
+    "computedRegionCbhkFwbd": "39",
+    "computedRegionNnqa": "2115"
   },
   {
     "name": "Dresden (Ontario)",
@@ -4923,8 +4923,8 @@
         40.78167
       ]
     },
-    ":@computed_region_cbhk_fwbd": "19",
-    ":@computed_region_nnqa_25f4": "462"
+    "computedRegionCbhkFwbd": "19",
+    "computedRegionNnqa": "462"
   },
   {
     "name": "Ehole",
@@ -5069,8 +5069,8 @@
         39.24667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "9",
-    ":@computed_region_nnqa_25f4": "88"
+    "computedRegionCbhkFwbd": "9",
+    "computedRegionNnqa": "88"
   },
   {
     "name": "Elbogen",
@@ -5323,8 +5323,8 @@
         43.41667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "16",
-    ":@computed_region_nnqa_25f4": "277"
+    "computedRegionCbhkFwbd": "16",
+    "computedRegionNnqa": "277"
   },
   {
     "name": "Farmington",
@@ -5343,8 +5343,8 @@
         39.75
       ]
     },
-    ":@computed_region_cbhk_fwbd": "17",
-    ":@computed_region_nnqa_25f4": "1300"
+    "computedRegionCbhkFwbd": "17",
+    "computedRegionNnqa": "1300"
   },
   {
     "name": "Farmville",
@@ -5363,8 +5363,8 @@
         35.55
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "2439"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "2439"
   },
   {
     "name": "Favars",
@@ -5401,8 +5401,8 @@
         36.05
       ]
     },
-    ":@computed_region_cbhk_fwbd": "15",
-    ":@computed_region_nnqa_25f4": "70"
+    "computedRegionCbhkFwbd": "15",
+    "computedRegionNnqa": "70"
   },
   {
     "name": "Feid Chair",
@@ -5439,8 +5439,8 @@
         32.53333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "29",
-    ":@computed_region_nnqa_25f4": "1631"
+    "computedRegionCbhkFwbd": "29",
+    "computedRegionNnqa": "1631"
   },
   {
     "name": "Fenghsien-Ku",
@@ -5477,8 +5477,8 @@
         36.1
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "2331"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "2331"
   },
   {
     "name": "Fermo",
@@ -5515,8 +5515,8 @@
         47.81667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "1",
-    ":@computed_region_nnqa_25f4": "385"
+    "computedRegionCbhkFwbd": "1",
+    "computedRegionNnqa": "385"
   },
   {
     "name": "Florence",
@@ -5535,8 +5535,8 @@
         30.83333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "807"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "807"
   },
   {
     "name": "Forest City",
@@ -5555,8 +5555,8 @@
         43.25
       ]
     },
-    ":@computed_region_cbhk_fwbd": "16",
-    ":@computed_region_nnqa_25f4": "1785"
+    "computedRegionCbhkFwbd": "16",
+    "computedRegionNnqa": "1785"
   },
   {
     "name": "Forest Vale",
@@ -5593,8 +5593,8 @@
         36.78333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "40",
-    ":@computed_region_nnqa_25f4": "2839"
+    "computedRegionCbhkFwbd": "40",
+    "computedRegionNnqa": "2839"
   },
   {
     "name": "Forsbach",
@@ -5631,8 +5631,8 @@
         33.01667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "31",
-    ":@computed_region_nnqa_25f4": "1470"
+    "computedRegionCbhkFwbd": "31",
+    "computedRegionNnqa": "1470"
   },
   {
     "name": "Fort Flatters",
@@ -5668,8 +5668,8 @@
         34.48333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "29",
-    ":@computed_region_nnqa_25f4": "99"
+    "computedRegionCbhkFwbd": "29",
+    "computedRegionNnqa": "99"
   },
   {
     "name": "Fuhe",
@@ -5902,8 +5902,8 @@
         41.68333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "13",
-    ":@computed_region_nnqa_25f4": "2985"
+    "computedRegionCbhkFwbd": "13",
+    "computedRegionNnqa": "2985"
   },
   {
     "name": "Gashua",
@@ -6622,8 +6622,8 @@
         41.38333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "35",
-    ":@computed_region_nnqa_25f4": "1205"
+    "computedRegionCbhkFwbd": "35",
+    "computedRegionNnqa": "1205"
   },
   {
     "name": "Haraiya",
@@ -6678,8 +6678,8 @@
         32.675
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "2025"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "2025"
   },
   {
     "name": "Harrison County",
@@ -6698,8 +6698,8 @@
         38.25
       ]
     },
-    ":@computed_region_cbhk_fwbd": "35",
-    ":@computed_region_nnqa_25f4": "1855"
+    "computedRegionCbhkFwbd": "35",
+    "computedRegionNnqa": "1855"
   },
   {
     "name": "Hashima",
@@ -6952,8 +6952,8 @@
         34.9
       ]
     },
-    ":@computed_region_cbhk_fwbd": "7",
-    ":@computed_region_nnqa_25f4": "990"
+    "computedRegionCbhkFwbd": "7",
+    "computedRegionNnqa": "990"
   },
   {
     "name": "Holetta",
@@ -6990,8 +6990,8 @@
         41.8
       ]
     },
-    ":@computed_region_cbhk_fwbd": "16",
-    ":@computed_region_nnqa_25f4": "284"
+    "computedRegionCbhkFwbd": "16",
+    "computedRegionNnqa": "284"
   },
   {
     "name": "Honolulu",
@@ -7010,8 +7010,8 @@
         21.3
       ]
     },
-    ":@computed_region_cbhk_fwbd": "4",
-    ":@computed_region_nnqa_25f4": "1657"
+    "computedRegionCbhkFwbd": "4",
+    "computedRegionNnqa": "1657"
   },
   {
     "name": "Hotse",
@@ -7048,8 +7048,8 @@
         39.35
       ]
     },
-    ":@computed_region_cbhk_fwbd": "17",
-    ":@computed_region_nnqa_25f4": "1293"
+    "computedRegionCbhkFwbd": "17",
+    "computedRegionNnqa": "1293"
   },
   {
     "name": "Hraschina",
@@ -7283,8 +7283,8 @@
         39.08333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "18",
-    ":@computed_region_nnqa_25f4": "525"
+    "computedRegionCbhkFwbd": "18",
+    "computedRegionNnqa": "525"
   },
   {
     "name": "Inner Mongolia",
@@ -7699,8 +7699,8 @@
         40.35
       ]
     },
-    ":@computed_region_cbhk_fwbd": "9",
-    ":@computed_region_nnqa_25f4": "1072"
+    "computedRegionCbhkFwbd": "9",
+    "computedRegionNnqa": "1072"
   },
   {
     "name": "Jolomba",
@@ -8457,8 +8457,8 @@
         29.45
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "3190"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "3190"
   },
   {
     "name": "Kendrapara",
@@ -8801,8 +8801,8 @@
         43.58333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "41",
-    ":@computed_region_nnqa_25f4": "2971"
+    "computedRegionCbhkFwbd": "41",
+    "computedRegionNnqa": "2971"
   },
   {
     "name": "Killeter",
@@ -8857,8 +8857,8 @@
         30.75
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "2018"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "2018"
   },
   {
     "name": "Kisvarsány",
@@ -9696,8 +9696,8 @@
         35.88333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "20",
-    ":@computed_region_nnqa_25f4": "608"
+    "computedRegionCbhkFwbd": "20",
+    "computedRegionNnqa": "608"
   },
   {
     "name": "Leeuwfontein",
@@ -9752,8 +9752,8 @@
         34.58333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "29",
-    ":@computed_region_nnqa_25f4": "1585"
+    "computedRegionCbhkFwbd": "29",
+    "computedRegionNnqa": "1585"
   },
   {
     "name": "Leonovka",
@@ -9934,8 +9934,8 @@
         37.91667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "18",
-    ":@computed_region_nnqa_25f4": "2171"
+    "computedRegionCbhkFwbd": "18",
+    "computedRegionNnqa": "2171"
   },
   {
     "name": "Lixna",
@@ -10008,8 +10008,8 @@
         38.70066
       ]
     },
-    ":@computed_region_cbhk_fwbd": "40",
-    ":@computed_region_nnqa_25f4": "2770"
+    "computedRegionCbhkFwbd": "40",
+    "computedRegionNnqa": "2770"
   },
   {
     "name": "Los Martinez",
@@ -10046,8 +10046,8 @@
         36.00833
       ]
     },
-    ":@computed_region_cbhk_fwbd": "20",
-    ":@computed_region_nnqa_25f4": "2711"
+    "computedRegionCbhkFwbd": "20",
+    "computedRegionNnqa": "2711"
   },
   {
     "name": "Louisville",
@@ -10066,8 +10066,8 @@
         38.25
       ]
     },
-    ":@computed_region_cbhk_fwbd": "36",
-    ":@computed_region_nnqa_25f4": "1327"
+    "computedRegionCbhkFwbd": "36",
+    "computedRegionNnqa": "1327"
   },
   {
     "name": "Łowicz",
@@ -10140,8 +10140,8 @@
         32.03333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "31",
-    ":@computed_region_nnqa_25f4": "1567"
+    "computedRegionCbhkFwbd": "31",
+    "computedRegionNnqa": "1567"
   },
   {
     "name": "Lunan",
@@ -10465,8 +10465,8 @@
         32.21667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "11",
-    ":@computed_region_nnqa_25f4": "611"
+    "computedRegionCbhkFwbd": "11",
+    "computedRegionNnqa": "611"
   },
   {
     "name": "Malakal",
@@ -10673,8 +10673,8 @@
         42.71667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "19",
-    ":@computed_region_nnqa_25f4": "471"
+    "computedRegionCbhkFwbd": "19",
+    "computedRegionNnqa": "471"
   },
   {
     "name": "Maribo",
@@ -10747,8 +10747,8 @@
         41.9
       ]
     },
-    ":@computed_region_cbhk_fwbd": "16",
-    ":@computed_region_nnqa_25f4": "287"
+    "computedRegionCbhkFwbd": "16",
+    "computedRegionNnqa": "287"
   },
   {
     "name": "Marjalahti",
@@ -10821,8 +10821,8 @@
         35.8
       ]
     },
-    ":@computed_region_cbhk_fwbd": "39",
-    ":@computed_region_nnqa_25f4": "2740"
+    "computedRegionCbhkFwbd": "39",
+    "computedRegionNnqa": "2740"
   },
   {
     "name": "Mascombes",
@@ -11273,8 +11273,8 @@
         42.9075
       ]
     },
-    ":@computed_region_cbhk_fwbd": "41",
-    ":@computed_region_nnqa_25f4": "2996"
+    "computedRegionCbhkFwbd": "41",
+    "computedRegionNnqa": "2996"
   },
   {
     "name": "Mighei",
@@ -11383,8 +11383,8 @@
         35.4
       ]
     },
-    ":@computed_region_cbhk_fwbd": "15",
-    ":@computed_region_nnqa_25f4": "11"
+    "computedRegionCbhkFwbd": "15",
+    "computedRegionNnqa": "11"
   },
   {
     "name": "Minamino",
@@ -11547,8 +11547,8 @@
         38.5
       ]
     },
-    ":@computed_region_cbhk_fwbd": "17",
-    ":@computed_region_nnqa_25f4": "1290"
+    "computedRegionCbhkFwbd": "17",
+    "computedRegionNnqa": "1290"
   },
   {
     "name": "Mokoia",
@@ -11621,8 +11621,8 @@
         31.60833
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "2957"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "2957"
   },
   {
     "name": "Monroe",
@@ -11641,8 +11641,8 @@
         35.25
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "636"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "636"
   },
   {
     "name": "Monte das Fortes",
@@ -11750,8 +11750,8 @@
         35.41667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "2431"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "2431"
   },
   {
     "name": "Mooresfort",
@@ -12058,8 +12058,8 @@
         36.6
       ]
     },
-    ":@computed_region_cbhk_fwbd": "36",
-    ":@computed_region_nnqa_25f4": "237"
+    "computedRegionCbhkFwbd": "36",
+    "computedRegionNnqa": "237"
   },
   {
     "name": "Muzaffarpur",
@@ -12257,8 +12257,8 @@
         38.41667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "45",
-    ":@computed_region_nnqa_25f4": "419"
+    "computedRegionCbhkFwbd": "45",
+    "computedRegionNnqa": "419"
   },
   {
     "name": "Nantong",
@@ -12501,8 +12501,8 @@
         40
       ]
     },
-    ":@computed_region_cbhk_fwbd": "38",
-    ":@computed_region_nnqa_25f4": "2615"
+    "computedRegionCbhkFwbd": "38",
+    "computedRegionNnqa": "2615"
   },
   {
     "name": "New Halfa",
@@ -12539,8 +12539,8 @@
         29.94718
       ]
     },
-    ":@computed_region_cbhk_fwbd": "22",
-    ":@computed_region_nnqa_25f4": "1667"
+    "computedRegionCbhkFwbd": "22",
+    "computedRegionNnqa": "1667"
   },
   {
     "name": "Ngawi",
@@ -12738,8 +12738,8 @@
         44.08333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "49",
-    ":@computed_region_nnqa_25f4": "1683"
+    "computedRegionCbhkFwbd": "49",
+    "computedRegionNnqa": "1683"
   },
   {
     "name": "Noblesville",
@@ -12758,8 +12758,8 @@
         40.08528
       ]
     },
-    ":@computed_region_cbhk_fwbd": "35",
-    ":@computed_region_nnqa_25f4": "2238"
+    "computedRegionCbhkFwbd": "35",
+    "computedRegionNnqa": "2238"
   },
   {
     "name": "Nogata",
@@ -12814,8 +12814,8 @@
         36.21667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "15",
-    ":@computed_region_nnqa_25f4": "10"
+    "computedRegionCbhkFwbd": "15",
+    "computedRegionNnqa": "10"
   },
   {
     "name": "Norton County",
@@ -12834,8 +12834,8 @@
         39.68333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "17",
-    ":@computed_region_nnqa_25f4": "1252"
+    "computedRegionCbhkFwbd": "17",
+    "computedRegionNnqa": "1252"
   },
   {
     "name": "Noventa Vicentina",
@@ -13338,8 +13338,8 @@
         28.5475
       ]
     },
-    ":@computed_region_cbhk_fwbd": "30",
-    ":@computed_region_nnqa_25f4": "1078"
+    "computedRegionCbhkFwbd": "30",
+    "computedRegionNnqa": "1078"
   },
   {
     "name": "Ornans",
@@ -13448,8 +13448,8 @@
         38.6
       ]
     },
-    ":@computed_region_cbhk_fwbd": "17",
-    ":@computed_region_nnqa_25f4": "1947"
+    "computedRegionCbhkFwbd": "17",
+    "computedRegionNnqa": "1947"
   },
   {
     "name": "Ouadangou",
@@ -13646,8 +13646,8 @@
         32.31667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "32",
-    ":@computed_region_nnqa_25f4": "503"
+    "computedRegionCbhkFwbd": "32",
+    "computedRegionNnqa": "503"
   },
   {
     "name": "Palca de Aparzo",
@@ -13702,8 +13702,8 @@
         39.8
       ]
     },
-    ":@computed_region_cbhk_fwbd": "18",
-    ":@computed_region_nnqa_25f4": "2122"
+    "computedRegionCbhkFwbd": "18",
+    "computedRegionNnqa": "2122"
   },
   {
     "name": "Palolo Valley",
@@ -13722,8 +13722,8 @@
         21.3
       ]
     },
-    ":@computed_region_cbhk_fwbd": "4",
-    ":@computed_region_nnqa_25f4": "1657"
+    "computedRegionCbhkFwbd": "4",
+    "computedRegionNnqa": "1657"
   },
   {
     "name": "Dominion Range 03239",
@@ -13787,8 +13787,8 @@
         36.06667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "15",
-    ":@computed_region_nnqa_25f4": "1023"
+    "computedRegionCbhkFwbd": "15",
+    "computedRegionNnqa": "1023"
   },
   {
     "name": "Parambu",
@@ -13843,8 +13843,8 @@
         41.48472
       ]
     },
-    ":@computed_region_cbhk_fwbd": "34",
-    ":@computed_region_nnqa_25f4": "1863"
+    "computedRegionCbhkFwbd": "34",
+    "computedRegionNnqa": "1863"
   },
   {
     "name": "Parnallee",
@@ -13899,8 +13899,8 @@
         36.21667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "11",
-    ":@computed_region_nnqa_25f4": "1994"
+    "computedRegionCbhkFwbd": "11",
+    "computedRegionNnqa": "1994"
   },
   {
     "name": "Patora",
@@ -14116,8 +14116,8 @@
         41.28333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "47",
-    ":@computed_region_nnqa_25f4": "2185"
+    "computedRegionCbhkFwbd": "47",
+    "computedRegionNnqa": "2185"
   },
   {
     "name": "Peña Blanca Spring",
@@ -14136,8 +14136,8 @@
         30.125
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "3062"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "3062"
   },
   {
     "name": "Peramiho",
@@ -14264,8 +14264,8 @@
         35.3
       ]
     },
-    ":@computed_region_cbhk_fwbd": "39",
-    ":@computed_region_nnqa_25f4": "2017"
+    "computedRegionCbhkFwbd": "39",
+    "computedRegionNnqa": "2017"
   },
   {
     "name": "Pettiswood",
@@ -14301,8 +14301,8 @@
         40
       ]
     },
-    ":@computed_region_cbhk_fwbd": "17",
-    ":@computed_region_nnqa_25f4": "1255"
+    "computedRegionCbhkFwbd": "17",
+    "computedRegionNnqa": "1255"
   },
   {
     "name": "Phu Hong",
@@ -14500,8 +14500,8 @@
         31.95
       ]
     },
-    ":@computed_region_cbhk_fwbd": "31",
-    ":@computed_region_nnqa_25f4": "207"
+    "computedRegionCbhkFwbd": "31",
+    "computedRegionNnqa": "207"
   },
   {
     "name": "Plantersville",
@@ -14520,8 +14520,8 @@
         30.7
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "2018"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "2018"
   },
   {
     "name": "Pleşcoi",
@@ -14675,8 +14675,8 @@
         34.175
       ]
     },
-    ":@computed_region_cbhk_fwbd": "11",
-    ":@computed_region_nnqa_25f4": "1987"
+    "computedRegionCbhkFwbd": "11",
+    "computedRegionNnqa": "1987"
   },
   {
     "name": "Portugal",
@@ -14767,8 +14767,8 @@
         39.11667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "38",
-    ":@computed_region_nnqa_25f4": "2566"
+    "computedRegionCbhkFwbd": "38",
+    "computedRegionNnqa": "2566"
   },
   {
     "name": "Puerto Lápice",
@@ -15255,8 +15255,8 @@
         38.13742
       ]
     },
-    ":@computed_region_cbhk_fwbd": "8",
-    ":@computed_region_nnqa_25f4": "1391"
+    "computedRegionCbhkFwbd": "8",
+    "computedRegionNnqa": "1391"
   },
   {
     "name": "Reliegos",
@@ -15419,8 +15419,8 @@
         35.03333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "37",
-    ":@computed_region_nnqa_25f4": "2388"
+    "computedRegionCbhkFwbd": "37",
+    "computedRegionNnqa": "2388"
   },
   {
     "name": "Uzcudun",
@@ -15457,8 +15457,8 @@
         46.88333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "3",
-    ":@computed_region_nnqa_25f4": "569"
+    "computedRegionCbhkFwbd": "3",
+    "computedRegionNnqa": "569"
   },
   {
     "name": "Richland Springs",
@@ -15477,8 +15477,8 @@
         31.25
       ]
     },
-    ":@computed_region_cbhk_fwbd": "23",
-    ":@computed_region_nnqa_25f4": "2885"
+    "computedRegionCbhkFwbd": "23",
+    "computedRegionNnqa": "2885"
   },
   {
     "name": "Richmond",
@@ -15497,8 +15497,8 @@
         37.46667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "40",
-    ":@computed_region_nnqa_25f4": "2764"
+    "computedRegionCbhkFwbd": "40",
+    "computedRegionNnqa": "2764"
   },
   {
     "name": "Rio Negro",
@@ -15553,8 +15553,8 @@
         41.08333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "35",
-    ":@computed_region_nnqa_25f4": "150"
+    "computedRegionCbhkFwbd": "35",
+    "computedRegionNnqa": "150"
   },
   {
     "name": "Rockhampton",
@@ -15627,8 +15627,8 @@
         44.51667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "50",
-    ":@computed_region_nnqa_25f4": "361"
+    "computedRegionCbhkFwbd": "50",
+    "computedRegionNnqa": "361"
   },
   {
     "name": "Rowton",
@@ -15844,8 +15844,8 @@
         44.97917
       ]
     },
-    ":@computed_region_cbhk_fwbd": "12",
-    ":@computed_region_nnqa_25f4": "2409"
+    "computedRegionCbhkFwbd": "12",
+    "computedRegionNnqa": "2409"
   },
   {
     "name": "Salles",
@@ -15918,8 +15918,8 @@
         33.48472
       ]
     },
-    ":@computed_region_cbhk_fwbd": "8",
-    ":@computed_region_nnqa_25f4": "1174"
+    "computedRegionCbhkFwbd": "8",
+    "computedRegionNnqa": "1174"
   },
   {
     "name": "San Michele",
@@ -16208,8 +16208,8 @@
         42.86083
       ]
     },
-    ":@computed_region_cbhk_fwbd": "47",
-    ":@computed_region_nnqa_25f4": "2142"
+    "computedRegionCbhkFwbd": "47",
+    "computedRegionNnqa": "2142"
   },
   {
     "name": "Schönenberg",
@@ -16246,8 +16246,8 @@
         44.36667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "49",
-    ":@computed_region_nnqa_25f4": "1727"
+    "computedRegionCbhkFwbd": "49",
+    "computedRegionNnqa": "1727"
   },
   {
     "name": "Sediköy",
@@ -16536,8 +16536,8 @@
         37.83333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "40",
-    ":@computed_region_nnqa_25f4": "921"
+    "computedRegionCbhkFwbd": "40",
+    "computedRegionNnqa": "921"
   },
   {
     "name": "Shelburne",
@@ -16826,8 +16826,8 @@
         42.58333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "19",
-    ":@computed_region_nnqa_25f4": "2351"
+    "computedRegionCbhkFwbd": "19",
+    "computedRegionNnqa": "2351"
   },
   {
     "name": "Sitathali",
@@ -17170,8 +17170,8 @@
         38.7
       ]
     },
-    ":@computed_region_cbhk_fwbd": "18",
-    ":@computed_region_nnqa_25f4": "2223"
+    "computedRegionCbhkFwbd": "18",
+    "computedRegionNnqa": "2223"
   },
   {
     "name": "St. Mark's",
@@ -17208,8 +17208,8 @@
         38.16667
       ]
     },
-    ":@computed_region_cbhk_fwbd": "45",
-    ":@computed_region_nnqa_25f4": "424"
+    "computedRegionCbhkFwbd": "45",
+    "computedRegionNnqa": "424"
   },
   {
     "name": "St. Mesmin",
@@ -17389,8 +17389,8 @@
         41.2
       ]
     },
-    ":@computed_region_cbhk_fwbd": "24",
-    ":@computed_region_nnqa_25f4": "1040"
+    "computedRegionCbhkFwbd": "24",
+    "computedRegionNnqa": "1040"
   },
   {
     "name": "Strathmore",
@@ -17463,8 +17463,8 @@
         36.48333
       ]
     },
-    ":@computed_region_cbhk_fwbd": "15",
-    ":@computed_region_nnqa_25f4": "955"
+    "computedRegionCbhkFwbd": "15",
+    "computedRegionNnqa": "955"
   },
   {
     "name": "Suchy Dul",
@@ -17591,8 +17591,8 @@
         38.80389
       ]
     },
-    ":@computed_region_cbhk_fwbd": "8",
-    ":@computed_region_nnqa_25f4": "1187"
+    "computedRegionCbhkFwbd": "8",
+    "computedRegionNnqa": "1187"
   },
   {
     "name": "Sylacauga",
@@ -17611,8 +17611,8 @@
         33.18836
       ]
     },
-    ":@computed_region_cbhk_fwbd": "29",
-    ":@computed_region_nnqa_25f4": "1637"
+    "computedRegionCbhkFwbd": "29",
+    "computedRegionNnqa": "1637"
   },
   {
     "name": "Tabor",
@@ -18000,8 +18000,8 @@
         38.2
       ]
     },
-    ":@computed_region_cbhk_fwbd": "34",
-    ":@computed_region_nnqa_25f4": "1762"
+    "computedRegionCbhkFwbd": "34",
+    "computedRegionNnqa": "1762"
   },
   {
     "name": "Tillaberi",
