@@ -1,21 +1,22 @@
 const express = require('express')
+
 const app = express()
 const port = 3001
 
-app.get('/mult/:number', (req, res) => {
-  const { number } = req.params;
-  res.status(200).json({
-    multByOne: 1 * number,
-    multByTwo: 2 * number,
-    multByThree: 3 * number,
-    multByFour: 4 * number,
-    multByFive: 5 * number,
-    multBySix: 6 * number,
-    multBySeven: 7 * number,
-    multByEight: 8 * number,
-    multByNine: 9 * number,
-    multByTen: 10 * number,
-  })
+const githubInfo = require('../common/github-info-igor.json')
+const ramdonPersonInfo = require('../common/random-person-info.json')
+const nasaMeteoriteData = require('../common/nasa-meteorite-data.json')
+
+app.get('/low-payload', (req, res) => {
+  res.status(200).json(githubInfo)
+})
+
+app.get('/medium-payload', (req, res) => {
+  res.status(200).json(ramdonPersonInfo)
+})
+
+app.get('/high-payload', (req, res) => {
+  res.status(200).json(nasaMeteoriteData)
 })
 
 app.listen(port, () => {
