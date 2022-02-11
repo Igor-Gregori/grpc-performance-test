@@ -19,8 +19,31 @@ O relatório deve fornecer informações de diferenças de performance e número
 
 O relatório consistirá nos seguintes testes:
 <ul>
-  <li>100 requisições feitas simultaneamente por apenas um usuário, com payload baixo, quem conseguir realizar as requisições em menos tempo ganha</li>
-  <li>100 requisições feitas simultaneamente por apenas um usuário, com payload alto, quem conseguir realizar as requisições em menos tempo ganha</li>
-  <li>1000 requisições feitas por 10 usuários simultâneos, com payload médio, com um tempo máximo de 30 segundos, quem conseguir responder o maior número de requisições ganha</li>
-  <li>1000 requisições feitas por 10 usuários simultâneos, com payload alto, com um tempo máximo de 1 minuto, quem conseguir responder o maior número de requisições ganha</li>
+  <li>
+    100 requisições de leitura feitas por apenas um usuário,
+    com payload baixo, quem conseguir realizar as requisições em menos tempo ganha
+   </li>
+  <li>
+    100 requisições de leitura feitas por apenas um usuário,
+    com payload alto, quem conseguir realizar as requisições em menos tempo ganha
+  </li>
+  <li>
+    1000 requisições de leitura feitas por 10 usuários simultâneos,
+    com payload médio, com um tempo máximo de 30 segundos, quem conseguir
+    responder o maior número de requisições ganha
+  </li>
+  <li>
+    1000 requisições de leitura feitas por 10 usuários simultâneos,
+    com payload alto, com um tempo máximo de 1 minuto, quem conseguir
+    responder o maior número de requisições ganha
+  </li>
+  <li>
+    <b>*Pensar nos casos de requisição de escrita</b>
+  </li>
+  <li>
+    <b>*Http com compressão</b>
+  </li>
+  <li>
+    <b>*REST com http2.0</b>
+  </li>
 </ul>
