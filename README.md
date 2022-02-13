@@ -18,32 +18,31 @@
 O relatório deve fornecer informações de diferenças de performance e números de requisições entre os protocolos REST e gRPC
 
 O relatório consistirá nos seguintes testes:
-<ul>
-  <li>
-    100 requisições de leitura feitas por apenas um usuário,
-    com payload baixo, quem conseguir realizar as requisições em menos tempo ganha
-   </li>
-  <li>
-    100 requisições de leitura feitas por apenas um usuário,
-    com payload alto, quem conseguir realizar as requisições em menos tempo ganha
-  </li>
-  <li>
-    1000 requisições de leitura feitas por 10 usuários simultâneos,
-    com payload médio, com um tempo máximo de 30 segundos, quem conseguir
-    responder o maior número de requisições ganha
-  </li>
-  <li>
-    1000 requisições de leitura feitas por 10 usuários simultâneos,
-    com payload alto, com um tempo máximo de 1 minuto, quem conseguir
-    responder o maior número de requisições ganha
-  </li>
-  <li>
-    <b>*Pensar nos casos de requisição de escrita</b>
-  </li>
-  <li>
-    <b>*Http com compressão</b>
-  </li>
-  <li>
-    <b>*REST com http2.0</b>
-  </li>
-</ul>
+
+<p>
+Caso 1: <br/>
+100 requisições de leitura feitas por apenas um usuário,
+com payload baixo, quem conseguir realizar as requisições em menos tempo ganha.
+</p>
+
+<p>
+Caso 2:<br/>
+100 requisições de leitura feitas por apenas um usuário,
+com payload alto, quem conseguir realizar as requisições em menos tempo ganha.
+</p>
+
+<p>Caso 3:<br/>
+10 usuários simultâneos, com o tempo máximo de 30 segundos, com payload médio
+quem conseguir responder o maior número de requisições ganha.
+</p>
+
+<p>Caso 4:<br/>
+10 usuários simultâneos, com um tempo máximo de 1 minuto, com payload alto
+quem conseguir responder o maior número de requisições ganha.
+</p>
+
+<br/><br/><br/>
+<b>*Pensar nos casos de requisição de escrita</b><br/>
+<b>*Http com compressão</b><br/>
+<b>*REST com http2.0</b><br/>
+
