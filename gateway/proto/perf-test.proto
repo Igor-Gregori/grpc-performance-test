@@ -1,0 +1,106 @@
+syntax = "proto3";
+
+package perfTest;
+
+service PerformanceTest {
+  rpc lowPayload (Empty) returns (GitHubInfoResponse) {}
+  rpc mediumPayload (Empty) returns (RandomPersonInfoResponse) {}
+  rpc highPayload (Empty) returns (NasaMeteoriteDataResponse) {}
+}
+
+message Empty {}
+
+message GitHubInfoResponse {
+  string login = 1;
+  int32 id = 2;
+  string node_id = 3;
+  string avatar_url = 4;
+  string gravatar_id = 5;
+  string url = 6;
+  string html_url = 7;
+  string followers_url = 8;
+  string following_url = 9;
+  string gists_url = 10;
+  string starred_url = 11;
+  string subscriptions_url = 12;
+  string organizations_url = 13;
+  string repos_url = 14;
+  string events_url = 15;
+  string received_events_url = 16;
+  string type = 17;
+  bool site_admin = 18;
+  string name = 19;
+  string company = 20;
+  string blog = 21;
+  string location = 22;
+  string email = 23;
+  string hireable = 24;
+  string bio = 25;
+  string twitter_username = 26;
+  int32 public_repos = 27;
+  int32 public_gists = 28;
+  int32 followers = 29;
+  int32 following = 30;
+  string created_at = 31;
+  string updated_at = 32;
+}
+
+
+message RandomPersonInfoResponse {
+  repeated RandomPersonInfo randomPersonInfo = 1;
+}
+
+message RandomPersonInfo {
+  string _id = 1;
+  int32 index = 2;
+  string guid = 3;
+  bool isActive = 4;
+  string balance = 5;
+  string picture = 6;
+  int32 age = 7;
+  string eyeColor = 8;
+  string name = 9;
+  string gender = 10;
+  string company = 11;
+  string email = 12;
+  string phone = 13;
+  string address = 14;
+  string about = 15;
+  string registered = 16;
+  float latitude = 17;
+  float longitude = 18;
+  repeated string tags = 19;
+  repeated FriendsItem friends = 20;
+  string greeting = 21;
+  string favoriteFruit = 22;
+}
+
+message FriendsItem {
+  int32 id = 1;
+  string name = 2;
+}
+
+
+message NasaMeteoriteDataResponse {
+  repeated NasaMeteoriteData nasaMeteoriteData = 1;
+}
+
+message NasaMeteoriteData {
+  string name = 1;
+  string id = 2;
+  string nametype = 3;
+  string recclass = 4;
+  optional string mass = 5;
+  string fall = 6;
+  optional string year = 7;
+  optional string reclat = 8;
+  optional string reclong = 9;
+  optional Geolocation geolocation = 10;
+  optional string computedRegionCbhkFwbd = 11;
+  optional string computedRegionNnqa = 12;
+}
+
+message Geolocation {
+  string type = 1;
+  repeated float coordinates = 2;
+}

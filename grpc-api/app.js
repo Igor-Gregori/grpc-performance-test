@@ -22,11 +22,11 @@ function lowPayload(call, callback) {
 }
 
 function mediumPayload(call, callback) {
-  callback(null, randomPersonInfo)
+  callback(null, { randomPersonInfo })
 }
 
 function highPayload(call, callback) {
-  callback(null, nasaMeteoriteData)
+  callback(null, { nasaMeteoriteData })
 }
 
 function app() {
