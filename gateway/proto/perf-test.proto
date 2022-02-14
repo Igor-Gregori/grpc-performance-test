@@ -3,9 +3,12 @@ syntax = "proto3";
 package perfTest;
 
 service PerformanceTest {
-  rpc lowPayload (Empty) returns (GitHubInfoResponse) {}
-  rpc mediumPayload (Empty) returns (RandomPersonInfoResponse) {}
-  rpc highPayload (Empty) returns (NasaMeteoriteDataResponse) {}
+  rpc readLowPayload (Empty) returns (GitHubInfoResponse) {}
+  rpc readMediumPayload (Empty) returns (RandomPersonInfoResponse) {}
+  rpc readHighPayload (Empty) returns (NasaMeteoriteDataResponse) {}
+  rpc writeLowPayload (GitHubInfoResponse) returns (Empty) {}
+  rpc writeMediumPayload (RandomPersonInfoResponse) returns (Empty) {}
+  rpc writeHighPayload (NasaMeteoriteDataResponse) returns (Empty) {}
 }
 
 message Empty {}

@@ -12,10 +12,12 @@
 ## 🤯 Desafios
 ✅ Construir as aplicações <br/>
 ⬜️ Planejar um bom relatório de análise de diferença de performance <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;⬜️ Pensar nos casos de requisição de escrita <br/>
 ⬜️ Como é realizado o tratamento de erros ? <br/>
-⬜️ Pensar nos casos de requisição de escrita <br/>
-⬜️ Http com compressão <br/>
-⬜️ REST com http2.0 <br/>
+⬜️ Como substuiríamos os middlewares ? <br/>
+⬜️ Http1.1 com compressão <br/>
+⬜️ REST com http2.0 (Hapi, fastify) <br/>
+
 
 <br/><br/>
 ## 📄 Relatório
@@ -25,24 +27,72 @@ O relatório deve fornecer informações de diferenças de performance e número
 
 <p>
 Caso 1:<br/>
-100 requisições de leitura feitas por apenas um usuário, com payload baixo,
+1000 requisições de leitura feitas por apenas um usuário, com payload baixo,
 quem conseguir realizar as requisições em menos tempo ganha.
 </p>
 
 <p>
 Caso 2:<br/>
-100 requisições de leitura feitas por apenas um usuário, com payload alto,
+1000 requisições de leitura feitas por apenas um usuário, com payload médio,
 quem conseguir realizar as requisições em menos tempo ganha.
 </p>
 
 <p>
 Caso 3:<br/>
+1000 requisições de leitura feitas por apenas um usuário, com payload alto,
+quem conseguir realizar as requisições em menos tempo ganha.
+</p>
+
+<p>
+Caso 4:<br/>
+10 usuários simultâneos fazendo requisições de leitura, com o tempo máximo de 30 segundos, com payload baixo
+quem conseguir responder o maior número de requisições ganha.
+</p>
+
+<p>
+Caso 5:<br/>
 10 usuários simultâneos fazendo requisições de leitura, com o tempo máximo de 30 segundos, com payload médio
 quem conseguir responder o maior número de requisições ganha.
 </p>
 
 <p>
-Caso 4:<br/>
-10 usuários simultâneos fazendo requisições de leitura, com um tempo máximo de 1 minuto, com payload alto
+Caso 6:<br/>
+10 usuários simultâneos fazendo requisições de leitura, com o tempo máximo de 30 segundos, com payload alto
+quem conseguir responder o maior número de requisições ganha.
+</p>
+
+<p>
+Caso 7:<br/>
+1000 requisições de escrita feitas por apenas um usuário, com payload baixo,
+quem conseguir realizar as requisições em menos tempo ganha.
+</p>
+
+<p>
+Caso 8:<br/>
+1000 requisições de escrita feitas por apenas um usuário, com payload médio,
+quem conseguir realizar as requisições em menos tempo ganha.
+</p>
+
+<p>
+Caso 9:<br/>
+1000 requisições de escrita feitas por apenas um usuário, com payload alto,
+quem conseguir realizar as requisições em menos tempo ganha.
+</p>
+
+<p>
+Caso 10:<br/>
+10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 60 segundos, com payload baixo
+quem conseguir responder o maior número de requisições ganha.
+</p>
+
+<p>
+Caso 11:<br/>
+10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 60 segundos, com payload médio
+quem conseguir responder o maior número de requisições ganha.
+</p>
+
+<p>
+Caso 12:<br/>
+10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 60 segundos, com payload alto
 quem conseguir responder o maior número de requisições ganha.
 </p>

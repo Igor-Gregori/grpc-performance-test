@@ -17,25 +17,40 @@ const githubInfo = require('../common/github-info-igor.json')
 const randomPersonInfo = require('../common/random-person-info.json')
 const nasaMeteoriteData = require('../common/nasa-meteorite-data.json')
 
-function lowPayload(call, callback) {
+function readLowPayload(call, callback) {
   callback(null, githubInfo)
 }
 
-function mediumPayload(call, callback) {
+function readMediumPayload(call, callback) {
   callback(null, { randomPersonInfo })
 }
 
-function highPayload(call, callback) {
+function readHighPayload(call, callback) {
   callback(null, { nasaMeteoriteData })
+}
+
+function writeLowPayload(call, callback) {
+  callback(null, null)
+}
+
+function writeMediumPayload(call, callback) {
+  callback(null, null)
+}
+
+function writeHighPayload(call, callback) {
+  callback(null, null)
 }
 
 function app() {
   const port = 3002;
   var server = new grpc.Server();
   server.addService(multProto.PerformanceTest.service, {
-    lowPayload: lowPayload,
-    mediumPayload: mediumPayload,
-    highPayload: highPayload
+    readLowPayload: readLowPayload,
+    readMediumPayload: readMediumPayload,
+    readHighPayload: readHighPayload,
+    writeLowPayload: writeLowPayload,
+    writeMediumPayload: writeMediumPayload,
+    writeHighPayload: writeHighPayload
   });
   server.bindAsync(`0.0.0.0:${port}`, grpc.ServerCredentials.createInsecure(), () => {
     console.log(`🚀 gRPC api listening on port ${port}`)
