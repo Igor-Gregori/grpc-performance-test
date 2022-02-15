@@ -81,18 +81,18 @@ quem conseguir realizar as requisições em menos tempo ganha.
 
 <p>
 Caso 10:<br/>
-10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 60 segundos, com payload baixo
+10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 30 segundos, com payload baixo
 quem conseguir responder o maior número de requisições ganha.
 </p>
 
 <p>
 Caso 11:<br/>
-10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 60 segundos, com payload médio
+10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 30 segundos, com payload médio
 quem conseguir responder o maior número de requisições ganha.
 </p>
 
 <p>
 Caso 12:<br/>
-10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 60 segundos, com payload alto
+10 usuários simultâneos fazendo requisições de escrita, com o tempo máximo de 30 segundos, com payload alto
 quem conseguir responder o maior número de requisições ganha.
 </p>
