@@ -5,7 +5,7 @@ const axios = require('axios').default
 const app = express()
 const port = 3000
 
-const apiRestUrl = 'http://localhost:3001'
+const apiExpressUrl = 'http://localhost:3001'
 const apiGrpcUrl = '0.0.0.0:3002'
 
 const PROTO_PATH = path.resolve(__dirname, 'proto', 'perf-test.proto')
@@ -30,33 +30,33 @@ app.get('/healthcheck', (req, res) => {
   res.status(200).send(`I'm alive!`)
 })
 
-app.get('/rest/read/low-payload', async (req, res) => {
-  const result = await axios.get(`${apiRestUrl}/read/low-payload`)
+app.get('/express/read/low-payload', async (req, res) => {
+  const result = await axios.get(`${apiExpressUrl}/read/low-payload`)
   res.status(200).send(result.data)
 })
 
-app.get('/rest/read/medium-payload', async (req, res) => {
-  const result = await axios.get(`${apiRestUrl}/read/medium-payload`)
+app.get('/express/read/medium-payload', async (req, res) => {
+  const result = await axios.get(`${apiExpressUrl}/read/medium-payload`)
   res.status(200).send(result.data)
 })
 
-app.get('/rest/read/high-payload', async (req, res) => {
-  const result = await axios.get(`${apiRestUrl}/read/high-payload`)
+app.get('/express/read/high-payload', async (req, res) => {
+  const result = await axios.get(`${apiExpressUrl}/read/high-payload`)
   res.status(200).send(result.data)
 })
 
-app.get('/rest/write/low-payload', async (req, res) => {
-  await axios.post(`${apiRestUrl}/write/low-payload`, { githubInfo })
+app.get('/express/write/low-payload', async (req, res) => {
+  await axios.post(`${apiExpressUrl}/write/low-payload`, { githubInfo })
   res.status(200).end()
 })
 
-app.get('/rest/write/medium-payload', async (req, res) => {
-  await axios.post(`${apiRestUrl}/write/medium-payload`, { randomPersonInfo })
+app.get('/express/write/medium-payload', async (req, res) => {
+  await axios.post(`${apiExpressUrl}/write/medium-payload`, { randomPersonInfo })
   res.status(200).end()
 })
 
-app.get('/rest/write/high-payload', async (req, res) => {
-  await axios.post(`${apiRestUrl}/write/high-payload`, { nasaMeteoriteData })
+app.get('/express/write/high-payload', async (req, res) => {
+  await axios.post(`${apiExpressUrl}/write/high-payload`, { nasaMeteoriteData })
   res.status(200).end()
 })
 
